@@ -1,5 +1,7 @@
 # Symfony-evaluation
 
+## Dans le readme-install-symfony :
+
 Répertoire vide dans lequel on insère un dossier "conf"
 
 Copier le contenu de 000-default.conf : 
